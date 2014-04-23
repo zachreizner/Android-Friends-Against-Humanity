@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Friends Against Humanity</string>
+    <string name="action_change_user">Change Name</string>
+    <string name="action_game_browser">Browse Games</string>
+    <string name="action_game_scan">Scan Game QR Code</string>
+    <string name="action_submit_cards">Submit Cards</string>
+</resources>

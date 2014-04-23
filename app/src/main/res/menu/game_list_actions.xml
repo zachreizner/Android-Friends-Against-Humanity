@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_game_browser"
+        android:icon="@drawable/ic_action_collections_view_as_list"
+        android:title="@string/action_game_browser"
+        android:showAsAction="ifRoom" />
+    <item android:id="@+id/action_game_scan"
+        android:icon="@drawable/ic_action_icon_qrcode"
+        android:title="@string/action_game_scan"
+        android:showAsAction="ifRoom" />
+</menu>
